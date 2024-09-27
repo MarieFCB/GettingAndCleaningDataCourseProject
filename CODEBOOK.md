@@ -1,6 +1,6 @@
 ## Original Data
 
-For detailed description of the original dataset, please see README.txt and
+For more details on the original dataset, please see README.txt and
 features_info.txt in the original raw zipped dataset.
 
 ## Raw data Filtering
