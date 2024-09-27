@@ -1,4 +1,4 @@
-# Prep:   Load files / Libraries
+# Preparation:   Load files / Libraries
 
 if (!require("plyr")) {
   install.packages("plyr")
